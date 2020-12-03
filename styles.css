@@ -11,6 +11,7 @@
 
 body {
     font-family: 'Roboto Condensed', sans-serif;
+    margin: 0px;
     
 } 
 
@@ -109,7 +110,18 @@ hr {
     background-color: var(--quaternary-color);
 }
 
+.footer {
+    background-color: var(--primary-color);
+    padding: 1rem 0rem;
+    color: var(--quinary-color);
+    text-align: center;
+    border-top-right-radius: 1rem;
+}
 
+.footer .link {
+    color: var(--quinary-color);
+    padding-inline-start: 0px;
+}
 
 
 
