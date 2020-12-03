@@ -90,11 +90,32 @@ hr {
 .hero-heading {
     color: var(--quaternary-color);
     padding-top: 1rem;
+    text-align: center;
 }
 
 .hero-heading .hero-cool {
     color: var(--secondary-color);
 }
+
+.section{
+    padding: 2rem;
+}
+
+.section h1 {
+    text-align: center;
+}
+
+.ow {
+    background-color: var(--quaternary-color);
+}
+
+
+
+
+
+
+
+
 
 
 
