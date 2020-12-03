@@ -77,6 +77,25 @@ hr {
     font-weight: bold;
 }
 
+.hero {
+    padding: 2rem;
+}
+
+.hero-img {
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+.hero-heading {
+    color: var(--quaternary-color);
+    padding-top: 1rem;
+}
+
+.hero-heading .hero-cool {
+    color: var(--secondary-color);
+}
+
 
 
 
