@@ -56,7 +56,6 @@ hr {
 
 .navigation {
     color: var(--quinary-color);
-    border-radius: 0rem 1rem;
     background-image: linear-gradient(240deg, #4DA8DA 60%, #12232E 60%);
 }
 
